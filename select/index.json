@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "もう一曲　欲しいのかい？",
+  "base_artist": "櫻坂46",
+  "createdAt": "2026-02-08T08:29:37.905215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もう一曲　欲しいのかい？",
+      "artist": "Sakurazaka46",
+      "has_synced": true,
+      "path": "select/01_もう一曲_欲しいのかい_Sakurazaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もう一曲 欲しいのかい？",
+      "artist": "櫻坂46",
+      "has_synced": true,
+      "path": "select/02_もう一曲_欲しいのかい_櫻坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もう一曲 欲しいのかい？",
+      "artist": "Sakurazaka46",
+      "has_synced": true,
+      "path": "select/03_もう一曲_欲しいのかい_Sakurazaka46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もう一曲 欲しいのかい?",
+      "artist": "櫻坂46",
+      "has_synced": true,
+      "path": "select/04_もう一曲_欲しいのかい_櫻坂46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もう一曲　欲しいのかい？ -OFF VOCAL ver.-",
+      "artist": "Sakurazaka46",
+      "has_synced": false,
+      "path": "select/05_もう一曲_欲しいのかい__-OFF_VOCAL_ver.-_Sakurazaka46.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう一曲 欲しいのかい?",
+      "artist": "櫻坂46",
+      "has_synced": false,
+      "path": "select/pl_01_もう一曲_欲しいのかい_櫻坂46.txt"
+    }
+  ]
+}
